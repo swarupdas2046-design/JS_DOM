@@ -6,7 +6,7 @@ let arr = [
         "primary-color": "yellow",
         "secondary-color": "blue",
         "captain": "Ruturaj Gaikwad",
-        "image": "https://media.tenor.com/orxm7U5q4w8AAAAM/csk-whistle-podu-army.gif",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIHHb54vRzW_hNxGewGI7oLoWwhyphenhyphenN7p_I15WXA7VTSiU7LA-er-27QadDZUBmeK4qzzKwy5B6tBrmpq-B1nSU75qFTcAiuyWQQZEXCds9PYruf6KnFex36ISEYYaOnuzCAOd8DvU2H35E/s0/Chennai_Super_Kings_flag.gif",
         "title": "5 titles (2010 , 2011 , 2018, 2021 , 2023)",
     },
     {
@@ -42,7 +42,7 @@ let arr = [
         "primary-color": "pink",
         "secondary-color": "blue",
         "captain": "Sanju Samson",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRJb59Hgk5UHEWEwRUsE_nHHPI3rI__qUIDV3QJ-anM0SwYOy8_NJdxsTH7bS0QM7HlP81mmipePF3eRVk_r38tm4x6Hkei6Lr9LHkTNaF5o4AAB2agpU1dPY3sagPRBT6E2dwdCB5ViY/s0/Lucknow_Super_Giants_flag.gif",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMLnHvtiG634k3v9vOx97opYPBInEmL_Zf8Nh4LX71oJrldwozKDZ6kVy3ltqu-Wd2AZ3xi6e-TtKH3c6ODKqvZ-7YKbv0qNDOasxamXWExJPSFLqtqzTV88fdvfzRhWzX5P11L3iA7V0/s0/Rajasthan_Royals_flag.gif",
         "title": "1 title (2008)",
 
 
@@ -88,7 +88,7 @@ let arr = [
         "primary-color": "gold",
         "secondary-color": "red",
         "captain": "Rishabh Pant",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRJb59Hgk5UHEWEwRUsE_nHHPI3rI__qUIDV3QJ-anM0SwYOy8_NJdxsTH7bS0QM7HlP81mmipePF3eRVk_r38tm4x6Hkei6Lr9LHkTNaF5o4AAB2agpU1dPY3sagPRBT6E2dwdCB5ViY/s0/Lucknow_Super_Giants_flag.gif",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge9Tw56MxK5IvM1O7B5_gxTpm04GEtC21SDEcK7iR3773t3MukchgWOtGzLgWO8Oqn7QlPpl-_CZpRnPTVW-kSQqc9rgZfZM-KQDOZmYPDP7TnEh6Is9A-AYGEbgAaQCgpWRQpap-1HAI/s0/Punjab_Kings_flag.gif",
         "title": "0 titles",
 
     },
